@@ -1,8 +1,7 @@
 
-
 AI and IoT Integration for Real-Time Prediction of Depressive Crises
 Overview
-This project integrates artificial intelligence (AI) and Internet of Things (IoT) technologies to predict depressive crises in real-time. The project consists of two main components:
+This project integrates artificial intelligence and Internet of Things technologies to predict depressive crises in real-time. The project consists of two main components:
 
 An AI algorithm for predicting depressive crises based on physiological and behavioral data.
 An IoT system for collecting real-time data from wearable sensors and transmitting it to the AI algorithm.
@@ -34,9 +33,3 @@ Set up the IoT system on an ESP32 microcontroller with required libraries and se
 Configure Wi-Fi and MQTT settings in the ESP32 code.
 Upload the ESP32 code to the microcontroller and monitor real-time data transmission using an MQTT client.
 Contributing
-Contributions to improve the AI algorithm or IoT system are welcome. Please submit pull requests or open issues for suggestions and feedback.
-
-License
-This project is licensed under the MIT License.
-
-Feel free to customize the README file according to your project's specific details and requirements.
