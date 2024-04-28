@@ -17,7 +17,7 @@ Real-Time Data Collection: Simulated using a function (collect_data()) to genera
 Continuous Training: The model is updated using the partial_fit() method for online learning.
 IoT System
 Description
-The IoT system consists of wearable devices equipped with sensors for measuring physiological signals such as EMG, GSR, ECG, and EEG. These devices communicate with a central hub (e.g., ESP32 microcontroller) via Wi-Fi and MQTT protocols. The hub collects real-time data from sensors and publishes it to an MQTT broker (e.g., Ubidots).
+The IoT system consists of wearable devices equipped with sensors for measuring physiological signals such as EMG, GSR, ECG, and EEG. These devices communicate with a central hub ESP32 in our case via Wi-Fi and MQTT protocols. The hub collects real-time data from sensors and publishes it to an MQTT broker 
 
 Implementation
 Platform: ESP32 microcontroller
